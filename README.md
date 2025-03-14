@@ -12,14 +12,13 @@
     <h2>🧑‍💻 Обо мне</h2>
     <ul>
         <li>🎓 Выпускник специальности <strong>"Компьютерные системы и комплексы"</strong> (2022 год).</li>
-        <li>💼 Ищу работу на позиции <strong>Junior Python Developer</strong>.</li>
         <li>🌍 Живу в Москве.</li>
     </ul>  
     <h2>🔧 Технологии и навыки</h2>
     <ul>
         <li><strong>Языки программирования:</strong> Python</li>
-        <li><strong>Фреймворки:</strong> Django, Django Rest Framework (DRF)</li>
-        <li><strong>Инструменты:</strong> Docker, Redis, Celery, Git, GitHub, Terminal</li>
+        <li><strong>Веб-Фреймворки:</strong> Django(DRF), Fast-API</li>
+        <li><strong>Инструменты:</strong>Docker(docker-compose), Redis, Celery, ORM(Django, SQLAlchemy, Tortoise-ORM), Database(PostgreSQL, MongoDB, MySQL, ElasticSearch, Redis), Linux</li>
         <li><strong>Soft Skills:</strong> целеустремленность, трудолюбие, вовлеченность</li>
     </ul>
     <h2>📈 Решаю задачи на LeetCode</h2>
