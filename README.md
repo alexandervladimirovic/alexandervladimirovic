@@ -23,7 +23,7 @@
     </ul>
     <h2>📈 Решаю задачи на LeetCode</h2>
     <p>
-        Загляните в мой <a href="https://leetcode.com/alexander_vladimirovich/" target="_blank">профиль LeetCode</a> для просмотра моих достижений и решений задач!
+        Загляните в мой <a href="https://leetcode.com/alexander_vladimirovich/" target="_blank">профиль LeetCode</a>!
     </p>   
     <h2>📬 Контакты</h2>
     <ul>
